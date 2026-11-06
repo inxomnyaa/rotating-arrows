@@ -4,8 +4,6 @@ A tiny GNOME Shell extension (GNOME 49–51): the `>` arrow on a Quick Settings 
 
 <img src="media/demo.webp" alt="Quick Settings arrows rotating into a V as the volume, Bluetooth and Background Apps submenus open and close" width="360">
 
-([full-quality WebM](media/demo.webm))
-
 Pairs well with [Glass Buttons](https://github.com/inxomnyaa/glass-buttons), but works on its own.
 
 ## Install
