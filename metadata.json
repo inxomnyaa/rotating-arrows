@@ -1,0 +1,8 @@
+{
+  "uuid": "rotating-arrows@inxomnyaa",
+  "name": "Rotating Arrows",
+  "description": "The > arrows on Quick Settings items rotate into a V while their submenu is open.",
+  "shell-version": ["49", "50", "51"],
+  "url": "https://github.com/inxomnyaa/rotating-arrows",
+  "version": 1
+}
